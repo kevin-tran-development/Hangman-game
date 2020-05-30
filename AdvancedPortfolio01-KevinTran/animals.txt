@@ -1,0 +1,10 @@
+Tiger
+Lion
+Cat
+Panther
+Bird
+Monkey
+Dog
+Shark
+Snake
+Whale
